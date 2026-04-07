@@ -46,3 +46,10 @@ To learn more about **Refine**, please check out the [Documentation](https://ref
 ## License
 
 MIT
+
+## Frontend Setup
+
+### Theme
+For setting up our web app's theme we first copied the pnpm code of desired UI theme from tweakcn(for shadcn/ui) then pasted it in App.css file
+
+### Setting up initial Frontend Routes
